@@ -1,2 +1,2 @@
-# airbuddy
-airbuddy
+# airassistant
+airassistant
